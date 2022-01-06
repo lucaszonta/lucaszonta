@@ -22,7 +22,7 @@ Lucas = {
   - **[Python](https://github.com/lucaszonta/practicas/tree/main/python)**
   - **[Desarrollo Web](https://github.com/lucaszonta/practicas/tree/main/desarrollo%20web)**
   - **[Lenguaje C](https://github.com/lucaszonta/practicas/tree/main/C)**
-  - **[JavasScript](https://github.com/lucaszonta/practicas/tree/main/javascript)**
+  - **[Javascript](https://github.com/lucaszonta/practicas/tree/main/javascript)**
   - **[ReactJS](https://github.com/lucaszonta/practicas/tree/main/reactJS)**
 ***************
 
