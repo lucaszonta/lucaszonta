@@ -22,11 +22,11 @@ Lucas = {
   - **[Python](https://github.com/lucaszonta/practicas/tree/main/python)**
   - **[Desarrollo Web](https://github.com/lucaszonta/practicas/tree/main/desarrollo%20web)**
   - **[Lenguaje C](https://github.com/lucaszonta/practicas/tree/main/C)**
-  - **[Javascript](https://github.com/lucaszonta/practicas/tree/main/javascript)**
+  - **[JavaScript](https://github.com/lucaszonta/practicas/tree/main/javascript)**
   - **[ReactJS](https://github.com/lucaszonta/practicas/tree/main/reactJS)**
 ***************
 
-## 📚 Cursos
+## 📚 Cursos realizados
   - **[Testing Funcional](https://www.nahual.com.ar/ 'Web de Proyecto Nahual')** - Proyecto Nahual.
   - **[Diseño UX/UI](https://www.behance.net/gallery/100553381/letsgo-app-de-eventos 'Perfil en Behance')** - CoderHouse.
   - **[Desarrollo Web](https://github.com/lucaszonta/practicas/tree/main/desarrollo%20web/CUVL%20-%20hot%20rod%20world 'Repositorio GitHub')** - Centro Univ. Vicente López.
