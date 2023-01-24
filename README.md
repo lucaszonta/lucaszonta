@@ -3,11 +3,11 @@
 ## 🛸 Sobre mí
 ```py
 Lucas = {
-    'edad': '28',
+    'edad': '29',
     'residencia': 'Isidro Casanova, Bs. As.',
     'carrera': {
-        'titulo': 'Licenciatura en Ciencias de Datos',
-        'institución': 'Universidad de Buenos Aires',
+        'titulo': 'Ingeniería en Telecomunicaciones',
+        'institución': 'Universidad Nacional de San Martín',
         'estado': 'En curso'
     },
     'stack': {
