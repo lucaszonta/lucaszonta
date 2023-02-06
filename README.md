@@ -10,10 +10,7 @@ Lucas = {
         'institución': 'Universidad Nacional de San Martín',
         'estado': 'En curso'
     },
-    'stack': {
-       'principal': ['Python', 'HTML', 'CSS', 'JavaScript', 'GIT'],
-       'acercamiento': ['jQuery', 'ReactJS', 'C']
-    }
+    'stack': ['Python', 'HTML', 'CSS', 'JavaScript', 'GIT', 'C', 'ReactJs']
 }
 ```
 
