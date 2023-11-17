@@ -3,7 +3,6 @@
 ## 🛸 Sobre mí
 ```py
 Lucas = {
-    'edad': '29',
     'residencia': 'Isidro Casanova, Bs. As.',
     'carrera': {
         'titulo': 'Ingeniería en Telecomunicaciones',
