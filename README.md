@@ -3,7 +3,7 @@
 ## 🛸 Sobre mí
 ```py
 Lucas = {
-    'residencia': 'Isidro Casanova, Bs. As.',
+    'ubicación': 'Isidro Casanova, Bs. As.',
     'carrera': {
         'titulo': 'Ingeniería en Telecomunicaciones',
         'institución': 'Universidad Nacional de San Martín',
